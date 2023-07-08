@@ -58,3 +58,9 @@ p {
     background-color: black;
     color: white;
 }
+
+@media screen and (max-width:600px) {
+    html {
+        font-size: 8px;
+    }
+}
